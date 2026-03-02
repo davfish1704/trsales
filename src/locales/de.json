@@ -1,0 +1,293 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "quote": "Angebot anfordern",
+    "impressum": "Impressum",
+    "privacy": "Datenschutz"
+  },
+  "hero": {
+    "headline": "Wir bauen Systeme, die verkaufen",
+    "subheadline": "Premium-Automatisierung für Unternehmen, die skalieren wollen. Websites, Funnels und digitale Produkte – made in Wyoming.",
+    "cta": "Angebot anfordern",
+    "responseBadge": "Antwort innerhalb 24h"
+  },
+  "products": {
+    "title": "Unsere Services",
+    "subtitle": "Alles aus einer Hand. Premium-Qualität. Schweizer Präzision.",
+    "automation": {
+      "title": "Automation",
+      "description": "CRM-Integration, Lead-Qualifizierung und vollautomatisierte Sales-Funnels.",
+      "icon": "Bot"
+    },
+    "websites": {
+      "title": "Websites",
+      "description": "High-Converting Websites mit modernem Design, Backend-Integration und Premium-Animationen.",
+      "icon": "Globe"
+    },
+    "digital": {
+      "title": "Digitale Produkte",
+      "description": "E-Books, Online-Kurse, Membership-Sites und digitale Downloads mit automatisiertem Delivery.",
+      "icon": "Smartphone"
+    },
+    "ads": {
+      "title": "Werbung",
+      "description": "Performance-Marketing auf Google, Meta, LinkedIn und TikTok für maximale ROAS.",
+      "icon": "TrendingUp"
+    }
+  },
+  "stats": {
+    "projects": {
+      "value": "150+",
+      "label": "Projekte umgesetzt"
+    },
+    "satisfaction": {
+      "value": "98%",
+      "label": "Kundenzufriedenheit"
+    },
+    "response": {
+      "value": "24h",
+      "label": "Reaktionszeit"
+    }
+  },
+  "quote": {
+    "title": "Angebot anfordern",
+    "subtitle": "Erzählen Sie uns von Ihrem Projekt. Wir melden uns innerhalb von 24 Stunden.",
+    "steps": {
+      "category": "Kategorie",
+      "details": "Details",
+      "project": "Projekt",
+      "contact": "Kontakt"
+    },
+    "categories": {
+      "automation": {
+        "title": "Automation",
+        "description": "CRM, Lead-Qualifizierung, Funnels",
+        "icon": "Bot"
+      },
+      "websites": {
+        "title": "Websites",
+        "description": "Webentwicklung & Design",
+        "icon": "Globe"
+      },
+      "digital": {
+        "title": "Digitale Produkte",
+        "description": "Kurse, E-Books, Memberships",
+        "icon": "Smartphone"
+      },
+      "ads": {
+        "title": "Werbung",
+        "description": "Google, Meta, LinkedIn Ads",
+        "icon": "TrendingUp"
+      }
+    },
+    "automation": {
+      "title": "Welche Automation brauchen Sie?",
+      "options": {
+        "lead": "Lead-Qualifizierung",
+        "crm": "CRM-Integration",
+        "calendar": "Kalender-Routing",
+        "funnel": "Full Funnel Automation",
+        "other": "Sonstiges"
+      }
+    },
+    "websites": {
+      "title": "Website-Details",
+      "backend": {
+        "label": "Backend benötigt?",
+        "yes": "Mit Backend",
+        "no": "Ohne Backend"
+      },
+      "pages": {
+        "label": "Anzahl Seiten",
+        "1-3": "1-3 Seiten",
+        "4-6": "4-6 Seiten",
+        "7-10": "7-10 Seiten",
+        "10+": "10+ Seiten"
+      },
+      "design": {
+        "label": "Design-Ansatz",
+        "template": "Template-basiert",
+        "custom": "Custom Design",
+        "premium": "Premium Animation"
+      },
+      "features": {
+        "label": "Zusatzfunktionen",
+        "blog": "Blog",
+        "shop": "E-Commerce",
+        "membership": "Membership",
+        "api": "API-Integration"
+      }
+    },
+    "digital": {
+      "title": "Digitales Produkt",
+      "type": {
+        "label": "Produkttyp",
+        "ebook": "E-Book",
+        "course": "Online-Kurs",
+        "membership": "Membership-Site",
+        "software": "Software/Tool"
+      },
+      "platform": {
+        "label": "Plattform",
+        "teachable": "Teachable",
+        "kajabi": "Kajabi",
+        "custom": "Custom",
+        "unsure": "Noch unsicher"
+      },
+      "payment": {
+        "label": "Zahlungsanbieter",
+        "stripe": "Stripe",
+        "paypal": "PayPal",
+        "both": "Beides"
+      },
+      "delivery": {
+        "label": "Content-Delivery",
+        "immediate": "Sofortiger Zugriff",
+        "drip": "Drip-Freigabe",
+        "scheduled": "Geplant"
+      }
+    },
+    "ads": {
+      "title": "Werbekampagne",
+      "platform": {
+        "label": "Plattform",
+        "google": "Google Ads",
+        "meta": "Meta Ads",
+        "linkedin": "LinkedIn Ads",
+        "tiktok": "TikTok Ads",
+        "multi": "Multi-Plattform"
+      },
+      "goal": {
+        "label": "Kampagnenziel",
+        "leads": "Leads generieren",
+        "sales": "Direktverkäufe",
+        "awareness": "Brand Awareness"
+      },
+      "budget": {
+        "label": "Monatsbudget",
+        "small": "Unter $1.000",
+        "medium": "$1.000 - $5.000",
+        "large": "$5.000 - $10.000",
+        "enterprise": "$10.000+"
+      },
+      "creative": {
+        "label": "Creatives",
+        "need": "Werbematerial benötigt",
+        "have": "Eigenes Material vorhanden"
+      }
+    },
+    "project": {
+      "title": "Projektdetails",
+      "niche": {
+        "label": "Branche/Nische",
+        "placeholder": "z.B. E-Commerce, Coaching, SaaS..."
+      },
+      "problem": {
+        "label": "Aktuelles Problem",
+        "placeholder": "Beschreiben Sie kurz Ihre aktuelle Herausforderung..."
+      },
+      "timeline": {
+        "label": "Zeitrahmen",
+        "asap": "So schnell wie möglich",
+        "2weeks": "1-2 Wochen",
+        "1month": "1 Monat",
+        "flexible": "Flexibel"
+      },
+      "budget": {
+        "label": "Budget-Indikator",
+        "500-1k": "$500 - $1.000",
+        "1k-3k": "$1.000 - $3.000",
+        "3k-5k": "$3.000 - $5.000",
+        "5k-10k": "$5.000 - $10.000",
+        "10k+": "$10.000+"
+      }
+    },
+    "contact": {
+      "title": "Kontaktdaten",
+      "name": {
+        "label": "Name *",
+        "placeholder": "Ihr vollständiger Name"
+      },
+      "email": {
+        "label": "E-Mail *",
+        "placeholder": "ihre@email.com"
+      },
+      "company": {
+        "label": "Unternehmen",
+        "placeholder": "Ihre Firma (optional)"
+      },
+      "phone": {
+        "label": "Telefon",
+        "placeholder": "+1 (optional)"
+      },
+      "preferred": {
+        "label": "Bevorzugte Kontaktart",
+        "email": "E-Mail",
+        "whatsapp": "WhatsApp",
+        "call": "Telefon"
+      }
+    },
+    "buttons": {
+      "back": "Zurück",
+      "next": "Weiter",
+      "submit": "Anfrage senden",
+      "sending": "Wird gesendet..."
+    },
+    "success": {
+      "title": "Anfrage gesendet!",
+      "message": "Vielen Dank für Ihre Anfrage. Wir melden uns innerhalb von 24 Stunden bei Ihnen.",
+      "cta": "Zurück zur Startseite"
+    },
+    "errors": {
+      "required": "Dieses Feld ist erforderlich",
+      "email": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+      "selectCategory": "Bitte wählen Sie eine Kategorie aus"
+    }
+  },
+  "cookie": {
+    "title": "Cookie-Einstellungen",
+    "message": "Wir verwenden Cookies, um Ihre Erfahrung zu verbessern. Sie können zwischen notwendigen Cookies oder allen Cookies wählen.",
+    "necessary": "Nur notwendige",
+    "acceptAll": "Alle akzeptieren"
+  },
+  "impressum": {
+    "title": "Impressum",
+    "company": "Unternehmen",
+    "address": "Adresse",
+    "contact": "Kontakt",
+    "responsible": "Verantwortlich für den Inhalt",
+    "disclaimer": "Haftungsausschluss"
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "intro": "Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Diese Datenschutzerklärung informiert Sie über die Verarbeitung Ihrer Daten auf unserer Website.",
+    "sections": {
+      "controller": {
+        "title": "Verantwortlicher",
+        "content": "TR Sales Agency, 30 N Gould St Ste R, Sheridan, WY 82801, USA"
+      },
+      "data": {
+        "title": "Erhebung und Verarbeitung von Daten",
+        "content": "Wir erheben personenbezogene Daten nur, wenn Sie diese freiwillig im Rahmen einer Anfrage angeben. Dies umfasst Name, E-Mail-Adresse und ggf. Telefonnummer."
+      },
+      "cookies": {
+        "title": "Cookies",
+        "content": "Unsere Website verwendet Cookies, um die Benutzererfahrung zu verbessern. Sie können Ihre Cookie-Einstellungen jederzeit anpassen."
+      },
+      "rights": {
+        "title": "Ihre Rechte",
+        "content": "Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer personenbezogenen Daten."
+      },
+      "contact": {
+        "title": "Kontakt Datenschutz",
+        "content": "Bei Fragen zum Datenschutz kontaktieren Sie uns unter: info@trsales.net"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 TR Sales Agency. Alle Rechte vorbehalten.",
+    "legal": "Rechtliches",
+    "impressum": "Impressum",
+    "privacy": "Datenschutz"
+  }
+}

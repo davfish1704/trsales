@@ -1,0 +1,293 @@
+{
+  "nav": {
+    "home": "Home",
+    "quote": "Request Quote",
+    "impressum": "Legal Notice",
+    "privacy": "Privacy Policy"
+  },
+  "hero": {
+    "headline": "We Build Systems That Close",
+    "subheadline": "Premium automation for businesses ready to scale. Websites, funnels, and digital products – made in Wyoming.",
+    "cta": "Request Quote",
+    "responseBadge": "Response within 24h"
+  },
+  "products": {
+    "title": "Our Services",
+    "subtitle": "Everything from one source. Premium quality. Swiss precision.",
+    "automation": {
+      "title": "Automation",
+      "description": "CRM integration, lead qualification, and fully automated sales funnels.",
+      "icon": "Bot"
+    },
+    "websites": {
+      "title": "Websites",
+      "description": "High-converting websites with modern design, backend integration, and premium animations.",
+      "icon": "Globe"
+    },
+    "digital": {
+      "title": "Digital Products",
+      "description": "E-books, online courses, membership sites, and digital downloads with automated delivery.",
+      "icon": "Smartphone"
+    },
+    "ads": {
+      "title": "Advertising",
+      "description": "Performance marketing on Google, Meta, LinkedIn, and TikTok for maximum ROAS.",
+      "icon": "TrendingUp"
+    }
+  },
+  "stats": {
+    "projects": {
+      "value": "150+",
+      "label": "Projects Delivered"
+    },
+    "satisfaction": {
+      "value": "98%",
+      "label": "Client Satisfaction"
+    },
+    "response": {
+      "value": "24h",
+      "label": "Response Time"
+    }
+  },
+  "quote": {
+    "title": "Request a Quote",
+    "subtitle": "Tell us about your project. We'll get back to you within 24 hours.",
+    "steps": {
+      "category": "Category",
+      "details": "Details",
+      "project": "Project",
+      "contact": "Contact"
+    },
+    "categories": {
+      "automation": {
+        "title": "Automation",
+        "description": "CRM, Lead Qualification, Funnels",
+        "icon": "Bot"
+      },
+      "websites": {
+        "title": "Websites",
+        "description": "Web Development & Design",
+        "icon": "Globe"
+      },
+      "digital": {
+        "title": "Digital Products",
+        "description": "Courses, E-books, Memberships",
+        "icon": "Smartphone"
+      },
+      "ads": {
+        "title": "Advertising",
+        "description": "Google, Meta, LinkedIn Ads",
+        "icon": "TrendingUp"
+      }
+    },
+    "automation": {
+      "title": "What automation do you need?",
+      "options": {
+        "lead": "Lead Qualification",
+        "crm": "CRM Integration",
+        "calendar": "Calendar Routing",
+        "funnel": "Full Funnel Automation",
+        "other": "Other"
+      }
+    },
+    "websites": {
+      "title": "Website Details",
+      "backend": {
+        "label": "Backend needed?",
+        "yes": "With Backend",
+        "no": "Without Backend"
+      },
+      "pages": {
+        "label": "Number of Pages",
+        "1-3": "1-3 Pages",
+        "4-6": "4-6 Pages",
+        "7-10": "7-10 Pages",
+        "10+": "10+ Pages"
+      },
+      "design": {
+        "label": "Design Approach",
+        "template": "Template-based",
+        "custom": "Custom Design",
+        "premium": "Premium Animation"
+      },
+      "features": {
+        "label": "Additional Features",
+        "blog": "Blog",
+        "shop": "E-Commerce",
+        "membership": "Membership",
+        "api": "API Integration"
+      }
+    },
+    "digital": {
+      "title": "Digital Product",
+      "type": {
+        "label": "Product Type",
+        "ebook": "E-Book",
+        "course": "Online Course",
+        "membership": "Membership Site",
+        "software": "Software/Tool"
+      },
+      "platform": {
+        "label": "Platform",
+        "teachable": "Teachable",
+        "kajabi": "Kajabi",
+        "custom": "Custom",
+        "unsure": "Not sure yet"
+      },
+      "payment": {
+        "label": "Payment Provider",
+        "stripe": "Stripe",
+        "paypal": "PayPal",
+        "both": "Both"
+      },
+      "delivery": {
+        "label": "Content Delivery",
+        "immediate": "Immediate Access",
+        "drip": "Drip Release",
+        "scheduled": "Scheduled"
+      }
+    },
+    "ads": {
+      "title": "Ad Campaign",
+      "platform": {
+        "label": "Platform",
+        "google": "Google Ads",
+        "meta": "Meta Ads",
+        "linkedin": "LinkedIn Ads",
+        "tiktok": "TikTok Ads",
+        "multi": "Multi-Platform"
+      },
+      "goal": {
+        "label": "Campaign Goal",
+        "leads": "Generate Leads",
+        "sales": "Direct Sales",
+        "awareness": "Brand Awareness"
+      },
+      "budget": {
+        "label": "Monthly Budget",
+        "small": "Under $1,000",
+        "medium": "$1,000 - $5,000",
+        "large": "$5,000 - $10,000",
+        "enterprise": "$10,000+"
+      },
+      "creative": {
+        "label": "Creatives",
+        "need": "Need ad creatives",
+        "have": "Have own creatives"
+      }
+    },
+    "project": {
+      "title": "Project Details",
+      "niche": {
+        "label": "Industry/Niche",
+        "placeholder": "e.g., E-commerce, Coaching, SaaS..."
+      },
+      "problem": {
+        "label": "Current Challenge",
+        "placeholder": "Briefly describe your current challenge..."
+      },
+      "timeline": {
+        "label": "Timeline",
+        "asap": "As soon as possible",
+        "2weeks": "1-2 weeks",
+        "1month": "1 month",
+        "flexible": "Flexible"
+      },
+      "budget": {
+        "label": "Budget Indicator",
+        "500-1k": "$500 - $1,000",
+        "1k-3k": "$1,000 - $3,000",
+        "3k-5k": "$3,000 - $5,000",
+        "5k-10k": "$5,000 - $10,000",
+        "10k+": "$10,000+"
+      }
+    },
+    "contact": {
+      "title": "Contact Information",
+      "name": {
+        "label": "Name *",
+        "placeholder": "Your full name"
+      },
+      "email": {
+        "label": "Email *",
+        "placeholder": "your@email.com"
+      },
+      "company": {
+        "label": "Company",
+        "placeholder": "Your company (optional)"
+      },
+      "phone": {
+        "label": "Phone",
+        "placeholder": "+1 (optional)"
+      },
+      "preferred": {
+        "label": "Preferred Contact Method",
+        "email": "Email",
+        "whatsapp": "WhatsApp",
+        "call": "Phone Call"
+      }
+    },
+    "buttons": {
+      "back": "Back",
+      "next": "Next",
+      "submit": "Send Request",
+      "sending": "Sending..."
+    },
+    "success": {
+      "title": "Request Sent!",
+      "message": "Thank you for your request. We'll get back to you within 24 hours.",
+      "cta": "Back to Home"
+    },
+    "errors": {
+      "required": "This field is required",
+      "email": "Please enter a valid email address",
+      "selectCategory": "Please select a category"
+    }
+  },
+  "cookie": {
+    "title": "Cookie Settings",
+    "message": "We use cookies to improve your experience. You can choose between necessary cookies or all cookies.",
+    "necessary": "Necessary Only",
+    "acceptAll": "Accept All"
+  },
+  "impressum": {
+    "title": "Legal Notice",
+    "company": "Company",
+    "address": "Address",
+    "contact": "Contact",
+    "responsible": "Responsible for Content",
+    "disclaimer": "Disclaimer"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "intro": "We take the protection of your personal data very seriously. This privacy policy informs you about the processing of your data on our website.",
+    "sections": {
+      "controller": {
+        "title": "Data Controller",
+        "content": "TR Sales Agency, 30 N Gould St Ste R, Sheridan, WY 82801, USA"
+      },
+      "data": {
+        "title": "Collection and Processing of Data",
+        "content": "We collect personal data only when you voluntarily provide it as part of an inquiry. This includes name, email address, and optionally phone number."
+      },
+      "cookies": {
+        "title": "Cookies",
+        "content": "Our website uses cookies to improve user experience. You can adjust your cookie settings at any time."
+      },
+      "rights": {
+        "title": "Your Rights",
+        "content": "You have the right to access, rectify, erase, and restrict processing of your personal data."
+      },
+      "contact": {
+        "title": "Privacy Contact",
+        "content": "For privacy-related questions, contact us at: info@trsales.net"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 TR Sales Agency. All rights reserved.",
+    "legal": "Legal",
+    "impressum": "Legal Notice",
+    "privacy": "Privacy Policy"
+  }
+}
