@@ -12,13 +12,11 @@ export function Footer() {
           {/* Brand */}
           <div>
             <div className="flex items-center gap-3 mb-4">
-              <div className="w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center">
-                <span className="text-gold font-bold text-lg">TR</span>
-              </div>
+              <img src="/favicon.svg" alt="TR Sales Agency Logo" className="w-10 h-10" />
               <span className="font-bold text-lg">Sales Agency</span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
-              Premium-Automatisierung für Unternehmen, die skalieren wollen.
+              {t('footer.tagline')}
             </p>
           </div>
 
