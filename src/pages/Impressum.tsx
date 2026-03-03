@@ -64,7 +64,7 @@ export function Impressum() {
               </div>
               <div className="pl-13 ml-5 space-y-2">
                 <p>
-                  <span className="text-gray-500">Email: </span>
+                  <span className="text-gray-500">{t('impressum.emailLabel')} </span>
                   <a 
                     href="mailto:info@trsales.net" 
                     className="text-gold hover:underline"
@@ -73,7 +73,7 @@ export function Impressum() {
                   </a>
                 </p>
                 <p>
-                  <span className="text-gray-500">Alternative: </span>
+                  <span className="text-gray-500">{t('impressum.alternativeLabel')} </span>
                   <a 
                     href="mailto:raisyah@trsales.net" 
                     className="text-gold hover:underline"
@@ -108,16 +108,13 @@ export function Impressum() {
               </h2>
               <div className="text-sm text-gray-500 space-y-4">
                 <p>
-                  Despite careful content control, we assume no liability for the content of external links. 
-                  The operators of the linked pages are solely responsible for their content.
+                  {t('impressum.disclaimerText1')}
                 </p>
                 <p>
-                  All content on this website is protected by copyright. Any use outside the limits of 
-                  copyright law is prohibited without prior written consent.
+                  {t('impressum.disclaimerText2')}
                 </p>
                 <p>
-                  This website is operated by TR Sales Agency, a company registered in Wyoming, USA. 
-                  All services are subject to Wyoming state law and applicable federal laws of the United States.
+                  {t('impressum.disclaimerText3')}
                 </p>
               </div>
             </div>

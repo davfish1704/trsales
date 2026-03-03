@@ -65,55 +65,41 @@ export function Privacy() {
             {/* Additional Details */}
             <div className="pt-8 border-t border-gray-100">
               <h3 className="text-lg font-bold text-navy mb-4">
-                Data Processing Details
+                {t('privacy.detailsTitle')}
               </h3>
               <div className="space-y-4 text-sm text-gray-600">
                 <div className="p-4 bg-gray-50 rounded-xl">
-                  <h4 className="font-semibold text-navy mb-2">Log Files</h4>
+                  <h4 className="font-semibold text-navy mb-2">{t('privacy.logFiles.title')}</h4>
                   <p>
-                    When you visit our website, our servers automatically record information 
-                    that your browser sends. This includes your IP address, browser type and 
-                    version, operating system, referrer URL, and timestamp. This data is used 
-                    solely for technical analysis and security purposes.
+                    {t('privacy.logFiles.content')}
                   </p>
                 </div>
                 
                 <div className="p-4 bg-gray-50 rounded-xl">
-                  <h4 className="font-semibold text-navy mb-2">Contact Form Data</h4>
+                  <h4 className="font-semibold text-navy mb-2">{t('privacy.contactForm.title')}</h4>
                   <p>
-                    When you submit a quote request, we store the information you provide 
-                    (name, email, company, phone, project details) to process your inquiry. 
-                    This data is retained for up to 2 years for follow-up purposes unless you 
-                    request deletion.
+                    {t('privacy.contactForm.content')}
                   </p>
                 </div>
 
                 <div className="p-4 bg-gray-50 rounded-xl">
-                  <h4 className="font-semibold text-navy mb-2">Third-Party Services</h4>
+                  <h4 className="font-semibold text-navy mb-2">{t('privacy.thirdParty.title')}</h4>
                   <p>
-                    We do not share your personal data with third parties except as necessary 
-                    to provide our services (e.g., email service providers) or as required by law. 
-                    All third-party providers are GDPR-compliant.
+                    {t('privacy.thirdParty.content')}
                   </p>
                 </div>
 
                 <div className="p-4 bg-gray-50 rounded-xl">
-                  <h4 className="font-semibold text-navy mb-2">Your Rights (GDPR)</h4>
+                  <h4 className="font-semibold text-navy mb-2">{t('privacy.gdprRights.title')}</h4>
                   <p>
-                    Under the General Data Protection Regulation, you have the right to: access 
-                    your personal data, request correction of inaccurate data, request deletion 
-                    of your data (right to be forgotten), restrict or object to processing, 
-                    and data portability. To exercise these rights, contact us at info@trsales.net.
+                    {t('privacy.gdprRights.content')}
                   </p>
                 </div>
 
                 <div className="p-4 bg-gray-50 rounded-xl">
-                  <h4 className="font-semibold text-navy mb-2">Data Security</h4>
+                  <h4 className="font-semibold text-navy mb-2">{t('privacy.dataSecurity.title')}</h4>
                   <p>
-                    We implement appropriate technical and organizational measures to protect 
-                    your personal data against unauthorized access, alteration, disclosure, or 
-                    destruction. This includes SSL encryption, secure server infrastructure, 
-                    and regular security audits.
+                    {t('privacy.dataSecurity.content')}
                   </p>
                 </div>
               </div>
@@ -122,7 +108,7 @@ export function Privacy() {
             {/* Last Updated */}
             <div className="pt-6 border-t border-gray-100 text-center">
               <p className="text-sm text-gray-500">
-                Last updated: March 2024
+                {t('privacy.lastUpdated')}
               </p>
             </div>
           </div>

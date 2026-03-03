@@ -88,7 +88,8 @@
         "calendar": "Kalender-Routing",
         "funnel": "Full Funnel Automation",
         "other": "Sonstiges"
-      }
+      },
+      "otherPlaceholder": "Beschreiben Sie Ihre Anforderungen..."
     },
     "websites": {
       "title": "Website-Details",
@@ -256,7 +257,12 @@
     "address": "Adresse",
     "contact": "Kontakt",
     "responsible": "Verantwortlich für den Inhalt",
-    "disclaimer": "Haftungsausschluss"
+    "disclaimer": "Haftungsausschluss",
+    "emailLabel": "E-Mail:",
+    "alternativeLabel": "Alternative:",
+    "disclaimerText1": "Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.",
+    "disclaimerText2": "Alle Inhalte dieser Website sind urheberrechtlich geschützt. Jede Nutzung außerhalb der Grenzen des Urheberrechts ist ohne vorherige schriftliche Zustimmung untersagt.",
+    "disclaimerText3": "Diese Website wird von der TR Sales Agency betrieben, einem in Wyoming, USA, registrierten Unternehmen. Alle Dienstleistungen unterliegen dem Recht des Staates Wyoming und den geltenden Bundesgesetzen der Vereinigten Staaten."
   },
   "privacy": {
     "title": "Datenschutzerklärung",
@@ -282,7 +288,29 @@
         "title": "Kontakt Datenschutz",
         "content": "Bei Fragen zum Datenschutz kontaktieren Sie uns unter: info@trsales.net"
       }
-    }
+    },
+    "detailsTitle": "Details zur Datenverarbeitung",
+    "logFiles": {
+      "title": "Log-Dateien",
+      "content": "Wenn Sie unsere Website besuchen, erfassen unsere Server automatisch Informationen, die Ihr Browser sendet. Dazu gehören Ihre IP-Adresse, Browsertyp und -version, Betriebssystem, Referrer-URL und Zeitstempel. Diese Daten werden ausschließlich für technische Analysen und Sicherheitszwecke verwendet."
+    },
+    "contactForm": {
+      "title": "Kontaktformular-Daten",
+      "content": "Wenn Sie ein Angebotsformular absenden, speichern wir die von Ihnen bereitgestellten Informationen (Name, E-Mail, Unternehmen, Telefon, Projektdetails), um Ihre Anfrage zu bearbeiten. Diese Daten werden bis zu 2 Jahre für Folgezwecke aufbewahrt, sofern Sie nicht die Löschung beantragen."
+    },
+    "thirdParty": {
+      "title": "Drittanbieter-Dienste",
+      "content": "Wir geben Ihre personenbezogenen Daten nicht an Dritte weiter, es sei denn, dies ist zur Erbringung unserer Dienstleistungen erforderlich (z.B. E-Mail-Dienstanbieter) oder gesetzlich vorgeschrieben. Alle Drittanbieter sind DSGVO-konform."
+    },
+    "gdprRights": {
+      "title": "Ihre Rechte (DSGVO)",
+      "content": "Nach der Datenschutz-Grundverordnung haben Sie das Recht auf: Auskunft über Ihre personenbezogenen Daten, Berichtigung unrichtiger Daten, Löschung Ihrer Daten (Recht auf Vergessenwerden), Einschränkung oder Widerspruch gegen die Verarbeitung sowie Datenübertragbarkeit. Um diese Rechte auszuüben, kontaktieren Sie uns unter info@trsales.net."
+    },
+    "dataSecurity": {
+      "title": "Datensicherheit",
+      "content": "Wir setzen angemessene technische und organisatorische Maßnahmen zum Schutz Ihrer personenbezogenen Daten vor unbefugtem Zugriff, Änderung, Offenlegung oder Zerstörung ein. Dazu gehören SSL-Verschlüsselung, sichere Server-Infrastruktur und regelmäßige Sicherheitsaudits."
+    },
+    "lastUpdated": "Zuletzt aktualisiert: März 2024"
   },
   "footer": {
     "copyright": "© 2024 TR Sales Agency. Alle Rechte vorbehalten.",

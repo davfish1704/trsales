@@ -322,7 +322,7 @@ export function QuoteForm() {
                   <textarea
                     value={formData.automationOther}
                     onChange={(e) => updateFormData('automationOther', e.target.value)}
-                    placeholder="Beschreiben Sie Ihre Anforderungen..."
+                    placeholder={t('quote.automation.otherPlaceholder')}
                     className="w-full p-4 border border-gray-200 rounded-xl focus:border-gold focus:ring-1 focus:ring-gold outline-none resize-none"
                     rows={3}
                   />

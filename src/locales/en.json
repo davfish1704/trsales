@@ -88,7 +88,8 @@
         "calendar": "Calendar Routing",
         "funnel": "Full Funnel Automation",
         "other": "Other"
-      }
+      },
+      "otherPlaceholder": "Describe your requirements..."
     },
     "websites": {
       "title": "Website Details",
@@ -256,7 +257,12 @@
     "address": "Address",
     "contact": "Contact",
     "responsible": "Responsible for Content",
-    "disclaimer": "Disclaimer"
+    "disclaimer": "Disclaimer",
+    "emailLabel": "Email:",
+    "alternativeLabel": "Alternative:",
+    "disclaimerText1": "Despite careful content control, we assume no liability for the content of external links. The operators of the linked pages are solely responsible for their content.",
+    "disclaimerText2": "All content on this website is protected by copyright. Any use outside the limits of copyright law is prohibited without prior written consent.",
+    "disclaimerText3": "This website is operated by TR Sales Agency, a company registered in Wyoming, USA. All services are subject to Wyoming state law and applicable federal laws of the United States."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -282,7 +288,29 @@
         "title": "Privacy Contact",
         "content": "For privacy-related questions, contact us at: info@trsales.net"
       }
-    }
+    },
+    "detailsTitle": "Data Processing Details",
+    "logFiles": {
+      "title": "Log Files",
+      "content": "When you visit our website, our servers automatically record information that your browser sends. This includes your IP address, browser type and version, operating system, referrer URL, and timestamp. This data is used solely for technical analysis and security purposes."
+    },
+    "contactForm": {
+      "title": "Contact Form Data",
+      "content": "When you submit a quote request, we store the information you provide (name, email, company, phone, project details) to process your inquiry. This data is retained for up to 2 years for follow-up purposes unless you request deletion."
+    },
+    "thirdParty": {
+      "title": "Third-Party Services",
+      "content": "We do not share your personal data with third parties except as necessary to provide our services (e.g., email service providers) or as required by law. All third-party providers are GDPR-compliant."
+    },
+    "gdprRights": {
+      "title": "Your Rights (GDPR)",
+      "content": "Under the General Data Protection Regulation, you have the right to: access your personal data, request correction of inaccurate data, request deletion of your data (right to be forgotten), restrict or object to processing, and data portability. To exercise these rights, contact us at info@trsales.net."
+    },
+    "dataSecurity": {
+      "title": "Data Security",
+      "content": "We implement appropriate technical and organizational measures to protect your personal data against unauthorized access, alteration, disclosure, or destruction. This includes SSL encryption, secure server infrastructure, and regular security audits."
+    },
+    "lastUpdated": "Last updated: March 2024"
   },
   "footer": {
     "copyright": "© 2024 TR Sales Agency. All rights reserved.",
