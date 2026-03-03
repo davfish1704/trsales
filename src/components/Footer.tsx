@@ -64,7 +64,7 @@ export function Footer() {
           </p>
           <div className="flex items-center gap-2">
             <span className="w-2 h-2 bg-green-500 rounded-full animate-pulse" />
-            <span className="text-sm text-gray-500">Made in Wyoming</span>
+            <span className="text-sm text-gray-500">{t('footer.madeIn')}</span>
           </div>
         </div>
       </div>
